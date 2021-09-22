@@ -23,9 +23,9 @@ The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCar
 
 ![D1_Linear_Regression.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_Linear_Regression.png)
 
-![D1_MechaCar_mpg_dataframe.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_Linear_Regression.png)
+![D1_MechaCar_mpg_dataframe.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_MechaCar_mpg_dataframe.png)
 
-![D1_Summary.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_Linear_Regression.png)
+![D1_Summary.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_Summary.png)
 
 
 1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
