@@ -32,7 +32,11 @@ Below is the summary that determined the p-value and the r-squared value for the
 
 ![D1_Summary.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_Summary.png)
 
-1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? According to the below correlation results and table, vehicle_length has a positive 0.60947984 moderate correlation to mpg and ground_clearance has a positive 0.32874886 weak correlation to mpg while the other variables show very weak correlations. 
+
+![D1_correlation.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_correlation.png)
+![D1_correlation_table.png](https://github.com/KimberlyCrawford/MechaCar_Statistical_Analysis/blob/main/Resources/Images/D1_correlation_table.png)
+
 2) Is the slope of the linear model considered to be zero? Why or why not?
 3) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
