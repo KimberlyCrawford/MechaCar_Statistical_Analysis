@@ -90,3 +90,5 @@ A study to test MechaCar against the competition might include the following:
 - Null hypothesis or alternative hypothesis: H0: There is NO statistical significant difference on defined metrics between MechaCar and competition. Ha: The is statistical significant difference on defined metrics between MecharCar and competition.
 - Statistical test used to test the hypothesis and reason selected this test: t-tests on each metrics for MechaCar against the same metric from the collective competition data.
 - Data needed to run the statistical test: Consumer rating, cost, fuel efficiency, and vehicle class.
+
+#### Module 15, Data Analysis & Visualization Certificate Program, UT Austin McCombs School of Business, 2021.
